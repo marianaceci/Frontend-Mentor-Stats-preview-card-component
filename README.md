@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-page-with-css-flexbox-G0DnvCBqlr](https://www.frontendmentor.io/solutions/responsive-page-with-css-flexbox-G0DnvCBqlr)
+- Live Site URL: [https://marianaceci.github.io/Frontend-Mentor-Stats-preview-card-component/](https://marianaceci.github.io/Frontend-Mentor-Stats-preview-card-component/)
 
 ## My process
 
